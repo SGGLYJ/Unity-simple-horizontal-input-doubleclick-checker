@@ -8,7 +8,7 @@ using UnityEngine;
 public class HorizontalInputDoubleClickChecker
 {
 	/// <summary>
-	/// You must set chance time for clicking and double clicking.
+	/// You must set chance time for clicking and double clicking. I recommand (0.1f,0.2f).
 	/// </summary>
 	/// <param name="_clickChanceTime">chance time for moving value to left end or right end</param>
 	/// <param name="_doubleClickChanceTime">chance time for maintaining click count</param>
